@@ -18,7 +18,7 @@
 | Excel | Raw data preparation |
 
 ## 📊 Dashboard Preview
-![Dashboard](screenshots/dashboard.jpg)
+![Dashboard](dashboard.jpg)
 
 ## 💡 Business Impact
 - Identified top product categories driving 60%+ of revenue
